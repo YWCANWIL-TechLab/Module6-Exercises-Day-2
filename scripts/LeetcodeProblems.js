@@ -10,6 +10,8 @@
  * Given two strings word1 and word2, merge the strings to a new string by adding them to the merged string in alternate order.
  * If one string is longer than the other string, append the extra letters to the end of the merged string
  * 
+ * Ex: let word1 = "hello"; let word2 = "world";    leetcode1768(word1, word2) => "hweolrllod"
+ * 
  * @param {String} word1 
  * @param {String} word2 
  * @returns {String} A string of word1 and word2 merged together
