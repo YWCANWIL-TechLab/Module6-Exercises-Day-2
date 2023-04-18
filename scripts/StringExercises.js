@@ -4,6 +4,9 @@
  * Given a string, inputString, return the same string reversed.
  * Remember: Strings are immutable - you cannot alter them like you can with arrays.
  * 
+ * * Hint: A standard for loop will allow you to iterate in either direction. 
+ * * You can set your iterator to whatever you would like, so to go backwards 
+ * * you can set it to the last index of your string, then reduce it by one for each character.
  * 
  * @param {String} inputString 
  * @returns {String} A reversed string of inputString
