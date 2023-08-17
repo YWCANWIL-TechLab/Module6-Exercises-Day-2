@@ -1,6 +1,8 @@
 // * STRING EXERCISES
 
 /**
+ * * Question 1
+ * 
  * Given a string, inputString, return the same string reversed.
  * Remember: Strings are immutable - you cannot alter them like you can with 
  * arrays.
@@ -20,6 +22,8 @@ function reverseAString(inputString) {
 }
 
 /**
+ * * Question 2
+ * 
  * Given an array of strings, find the length of the shortest string in the array.
  * Return the shortest string's length.
  * 
@@ -33,6 +37,8 @@ function findTheShortestString(strings) {
 }
 
 /**
+ * * Question 3
+ * 
  * Given a string, find and return the number of vowels.
  * For the purposes of this function, vowels are considered: a, e, i, o, u.
  * 
@@ -46,6 +52,8 @@ function findNumberOfVowels(string) {
 }
 
 /**
+ * * Question 4
+ * 
  * Given an array of strings, return a new array with only the strings that are
  * greater than or equal to a random length, len.
  * 
@@ -60,6 +68,8 @@ function greaterThanLength(stringArr, len) {
 }
 
 /**
+ * * Question 5
+ * 
  * Given a String, return a new string with all the vowels removed.
  * For the purposes of this exercises, vowels are considered: a, e, i, o, u
  * 
@@ -73,6 +83,8 @@ function removeVowels(string) {
 }
 
 /**
+ * * Question 6
+ * 
  * Given an array of strings, return a new array with all the strings sorted in alphabetical order.
  * 
  * Ex: ["grape", "banana", "dolphin", "zebra"] => ["banana", "dolphin", "grape", "zebra"]
@@ -85,6 +97,8 @@ function sortAllStrings(stringArr) {
 }
 
 /**
+ * * Question 7
+ * 
  * Given an array of Strings, return a new array where all the arrays' length 
  * are sorted from smallest to largest
  * 
@@ -98,7 +112,10 @@ function sortArrayByLength(stringArr) {
 }
 
 /**
- * Given a string, return a new string with all vowels replaced with the letter "o".
+ * * Question 8
+ * 
+ * Given a string, return a new string with all vowels replaced with the letter 
+ * "o".
  * 
  * Ex: "This is written using JavaScript" => "Thos os wrotton osong JovoScropt"
  * 
